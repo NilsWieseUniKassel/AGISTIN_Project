@@ -3,7 +3,7 @@
 
 %% general paramters
 
-VScourceData.HWSampleTime = 1/8000;              % simulation step size
+HWSampleTime = 1/8000;              % simulation step size
 
 
 %% specific parameters
